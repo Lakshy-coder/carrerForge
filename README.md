@@ -191,7 +191,7 @@ careerforge/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/<username>/careerforge.git
+git clone https://github.com/Lakshy-coder/careerforge.git
 ```
 
 2. Copy `SKILL.md` into your Claude Code skills directory.
