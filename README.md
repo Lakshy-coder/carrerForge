@@ -176,12 +176,7 @@ careerforge/
 ├── SKILL.md
 ├── README.md
 ├── LICENSE
-├── CHANGELOG.md
-├── examples/
-│   ├── sample-resume.md
-│   └── sample-jd.md
-├── docs/
-└── assets/
+└── CHANGELOG.md
 ```
 
 ---
